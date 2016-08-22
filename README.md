@@ -21,6 +21,8 @@
 * [jquery.danmu.js](https://github.com/chiruom/jquery.danmu.js) - jQuery弹幕插件 http://www.liyawei.cn/danmu/
 * [jquery.barrager.js](https://github.com/yaseng/jquery.barrager.js) - 专业的网页弹幕插件 http://yaseng.github.io/jquery.barrager.js
 * [Danmaku](https://github.com/weizhenye/Danmaku) - A high performance JavaScript danmaku engine. 一个高性能的弹幕引擎库 https://danmaku.js.org
+* [DPlayer](https://github.com/DIYgod/DPlayer) - 🍭Wow, such a lovely HTML5 danmaku video player http://dplayer.js.org
+* [Damoo](https://github.com/jamesliu96/Damoo) - HTML5 Danmaku Engine http://damoo.jamesliu.info
 
 ### Android
 
@@ -36,6 +38,7 @@
 * [CFDanmakuDemo](https://github.com/yuchuanfeng/CFDanmakuDemo) - 一个简单的弹幕实现
 * [DanmukuMaster-iOS](https://github.com/CrazyPeter/DanmukuMaster-iOS) - DanmukuMasterForiOS, barrage For iOS，弹幕
 * [LeoDanmakuKit](https://github.com/LeoMobileDeveloper/LeoDanmakuKit) - An iOS Danmaku Kit (一个iOS的弹幕库,可以方便的添加弹幕功能)
+* [HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo) - A high performance danmaku engine for iOS http://www.olinone.com/?p=186
 
 ### Misc
 
@@ -44,11 +47,17 @@
 * [browser-weixin-danmu](https://github.com/aidistan/browser-weixin-danmu) - 微信弹幕插件 http://aidistan.github.io/browser-weixin-danmu/
 * [bilibili_player](https://github.com/microcai/bilibili_player) - bilibili 弹幕播放器 for Linux
 * [WeShoot](https://github.com/Integ/WeShoot) - 微信网页弹幕chrome插件
+* [BiliLocal](https://github.com/AncientLysine/BiliLocal) - add danmaku to local videos
+* [bilibili-mac-client](https://github.com/typcn/bilibili-mac-client) - An unofficial bilibili client for mac http://bilimac.eqoe.cn/
+* [danmaQ](https://github.com/bigeagle/danmaQ) - danmaku implemented in Qt4
+* [DanmakuChi-Client-CSharp](https://github.com/wspl/DanmakuChi-Client-CSharp) － 🍦 DanmakuChi client end wrote with C#
+* [libwtfdanmaku](https://github.com/xqq/libwtfdanmaku) - High-performance danmaku engine for Windows
 
 ## Servers
 
 * [danmu-server](https://github.com/zsxsoft/danmu-server) - A danmaku server based on WebSocket. 弹幕服务器，基于WebSocket。
 * [akagi](https://github.com/OpenDanmakuConsortium/akagi) - Open souce danmaku API server. Reference implementation of Danmaku as a Service.
+* [DanmakuChi-Server-Node](https://github.com/wspl/DanmakuChi-Server-Node) -
 
 ## Sites
 
