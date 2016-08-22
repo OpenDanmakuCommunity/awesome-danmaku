@@ -8,7 +8,7 @@
 
 ### Flash
 
-* [padplayer(projectanotherdisplayer)](https://code.google.com/archive/p/projectanotherdisplayer/) - PAD (Project! Another Displayer)\PAD/ \PAD/ \PAD/ \PAD/ \PAD/ \PAD/ \PAD/ \PAD/
+* [PAD](https://code.google.com/archive/p/projectanotherdisplayer/) - PAD (Project! Another Displayer)\PAD/ \PAD/ \PAD/ \PAD/ \PAD/ \PAD/ \PAD/ \PAD/
 * [mukioplayer](https://code.google.com/archive/p/mukioplayer/) - 一个弹幕视频播放器
 * [ABPlayer](https://github.com/jabbany/ABPlayer) - A Flex based live comment displayer for online video comment sharing. 一个基于Flex的在线弹幕播放器。 http://kanoha.org/tags/abplayer/
 
