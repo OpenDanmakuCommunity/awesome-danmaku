@@ -42,6 +42,7 @@
 
 ### Misc
 
+* [BiliDan](https://github.com/m13253/BiliDan) - 用 MPV 在桌面播放B站弹幕，支持 Linux macOS Windows。
 * [bilibili-helper](https://github.com/zacyu/bilibili-helper) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作
 * [mama2](https://github.com/zythum/mama2) - 妈妈计划-众人拾柴火焰高 https://zythum.github.io/mama2 (编者注: 妈妈计划2为弹幕视频网站实现了弹幕功能)
 * [browser-weixin-danmu](https://github.com/aidistan/browser-weixin-danmu) - 微信弹幕插件 http://aidistan.github.io/browser-weixin-danmu/
@@ -72,6 +73,7 @@
 * [niconvert](https://github.com/muzuiget/niconvert) - 弹幕下载和转换工具
 * [danmu-client](https://github.com/zsxsoft/danmu-client) - A cross-platforms danmaku client that supports transparency which based on canvas + WebSocket. 多用跨平台透明弹幕客户端，支持图文弹幕，基于canvas + WebSocket。
 * [danmu.fm](https://github.com/twocucao/danmu.fm) - douyutv danmu 斗鱼TV 弹幕助手
+* [Danmaku2ASS](https://github.com/m13253/Danmaku2ASS) - 转换各视频站弹幕到 ASS 格式，部分支持高级弹幕。
 * [us-danmaku](https://github.com/tiansh/us-danmaku) - 用户脚本 以ass格式下载 AcFun 和 bilibili 的弹幕
 * [SelfDanmakuSite](https://github.com/iTisso/SelfDanmakuSite) - 个人弹幕站 http://blog.luojia.me/个人弹幕站/
 * [bilibili-danmu](https://github.com/airingursb/bilibili-danmu) - Bilibili弹幕下载器（Python版）
