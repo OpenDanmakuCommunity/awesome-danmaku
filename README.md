@@ -17,6 +17,7 @@
 * [CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary) - Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。 http://kanoha.org/
 * [ABPlayerHTML5](https://github.com/jabbany/ABPlayerHTML5) - Video Player for danmaku comments. ABPlayer in HTML5. ABPlayer核心构件以动态HTML编写的版本。向HTML5进发！HTML5弹幕播放器 http://kanoha.org/tags/ABPlayerHTML5/
 * [ABPlayerHTML5-bilibili-ver](https://github.com/zacyu/ABPlayerHTML5-bilibili-ver) - Video Player for danmaku comments. ABPlayer in HTML5. Stylized and optimized for Bilibili. ABPlayer核心构件以动态HTML编写的版本。向HTML5进发！HTML5弹幕播放器。为 Bilibili 风格化并优化。 http://kanoha.org/tags/ABPlayerHTML5/
+* [html5-player-acfun-tv](https://github.com/koukuko/html5-player-acfun-tv) - AcFun Html5 Player ver 3.0.0
 * [DanmuPlayer](https://github.com/chiruom/DanmuPlayer) - Html5弹幕视频播放器插件 http://www.liyawei.cn/danmuplayer/
 * [jquery.danmu.js](https://github.com/chiruom/jquery.danmu.js) - jQuery弹幕插件 http://www.liyawei.cn/danmu/
 * [jquery.barrager.js](https://github.com/yaseng/jquery.barrager.js) - 专业的网页弹幕插件 http://yaseng.github.io/jquery.barrager.js
