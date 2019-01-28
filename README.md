@@ -1,6 +1,9 @@
-# Awesome Danmaku
+# Awesome Danmaku [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 >这弹幕很清真！
+
+这里包含 [弹幕](https://zh.wikipedia.org/wiki/%E8%A7%86%E9%A2%91%E5%BC%B9%E5%B9%95) 相关的有趣的项目和资源。
+如果你想把自己的项目加入这个列表，请参考 [贡献者须知](CONTRIBUTING.md)。
 
 ### Contents
 
@@ -14,7 +17,7 @@
 
 ### HTML/JavaScript
 
-* [CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary) - Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。 http://kanoha.org/
+* [CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary) - Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。 http://jabbany.github.io/CommentCoreLibrary/demo
 * [ABPlayerHTML5](https://github.com/jabbany/ABPlayerHTML5) - Video Player for danmaku comments. ABPlayer in HTML5. ABPlayer核心构件以动态HTML编写的版本。向HTML5进发！HTML5弹幕播放器 http://kanoha.org/tags/ABPlayerHTML5/
 * [ABPlayerHTML5-bilibili-ver](https://github.com/zacyu/ABPlayerHTML5-bilibili-ver) - Video Player for danmaku comments. ABPlayer in HTML5. Stylized and optimized for Bilibili. ABPlayer核心构件以动态HTML编写的版本。向HTML5进发！HTML5弹幕播放器。为 Bilibili 风格化并优化。 http://kanoha.org/tags/ABPlayerHTML5/
 * [html5-player-acfun-tv](https://github.com/koukuko/html5-player-acfun-tv) - AcFun Html5 Player ver 3.0.0
@@ -41,14 +44,17 @@
 * [LeoDanmakuKit](https://github.com/LeoMobileDeveloper/LeoDanmakuKit) - An iOS Danmaku Kit (一个iOS的弹幕库,可以方便的添加弹幕功能)
 * [HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo) - A high performance danmaku engine for iOS http://www.olinone.com/?p=186
 
-### Misc
+### Browser Extension
 
-* [BiliDan](https://github.com/m13253/BiliDan) - 用 MPV 在桌面播放B站弹幕，支持 Linux macOS Windows。
 * [bilibili-helper](https://github.com/zacyu/bilibili-helper) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作
 * [mama2](https://github.com/zythum/mama2) - 妈妈计划-众人拾柴火焰高 https://zythum.github.io/mama2 (编者注: 妈妈计划2为弹幕视频网站实现了弹幕功能)
 * [browser-weixin-danmu](https://github.com/aidistan/browser-weixin-danmu) - 微信弹幕插件 http://aidistan.github.io/browser-weixin-danmu/
-* [bilibili_player](https://github.com/microcai/bilibili_player) - bilibili 弹幕播放器 for Linux
 * [WeShoot](https://github.com/Integ/WeShoot) - 微信网页弹幕chrome插件
+* [Dmooji](https://github.com/edward8628/dmooji) - 实现YouTube弹幕的Chrome插件，让YouTube秒变B站。 http://www.dmooji.com
+
+### Misc / Desktop
+* [BiliDan](https://github.com/m13253/BiliDan) - 用 MPV 在桌面播放B站弹幕，支持 Linux macOS Windows。
+* [bilibili_player](https://github.com/microcai/bilibili_player) - bilibili 弹幕播放器 for Linux
 * [BiliLocal](https://github.com/AncientLysine/BiliLocal) - add danmaku to local videos
 * [bilibili-mac-client](https://github.com/typcn/bilibili-mac-client) - An unofficial bilibili client for mac http://bilimac.eqoe.cn/
 * [danmaQ](https://github.com/bigeagle/danmaQ) - danmaku implemented in Qt4
