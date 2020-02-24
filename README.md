@@ -60,6 +60,7 @@
 * [danmaQ](https://github.com/bigeagle/danmaQ) - danmaku implemented in Qt4
 * [DanmakuChi-Client-CSharp](https://github.com/wspl/DanmakuChi-Client-CSharp) － 🍦 DanmakuChi client end wrote with C#
 * [libwtfdanmaku](https://github.com/xqq/libwtfdanmaku) - High-performance danmaku engine for Windows
+* [LoadDanmaku](https://github.com/huisedenanhai/LoadDanmaku) - 在自动加载 .xml 格式的弹幕的 mpv 插件
 
 ## Servers
 
