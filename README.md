@@ -34,6 +34,7 @@
 * [AZBarrage](https://github.com/Xieyupeng520/AZBarrage) - Android弹幕效果，随机颜色，大小，高度，内容 http://blog.csdn.net/XieYupeng520/article/details/49232925
 * [OpenDanmaku](https://github.com/linsea/OpenDanmaku) - 一个Android的弹幕控件.Open Danmaku is a Android widget which shows danmaku animation(https://github.com/linsea/OpenDanmaku).
 * [DanmuDemo](https://github.com/wangpeiyuan/DanmuDemo) - 一个样式看起来比较丰富的弹幕demo，DanmakuFlameMaster很简单的使用。
+* [EarlTrumpet](https://github.com/asendiLin/EarlTrumpet) - 一个轻量级的android弹幕库，可自定义弹幕布局。
 
 ### iOS
 
