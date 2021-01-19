@@ -72,7 +72,7 @@
 ## Sites
 
 * [niconico](http://www.nicovideo.jp/) - niconico
-* [acfun](http://www.acfun./) - AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+* [acfun](http://www.acfun.cn/) - AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
 * [bilibili](http://www.bilibili.com/) - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ  乾杯~
 * [tucao](http://tucao.tv/) - 吐槽弹幕网
 * [animere](http://anime.re) - danmaku for YouTube, Dailymotion and Vimeo videos
