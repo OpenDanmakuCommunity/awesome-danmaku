@@ -27,6 +27,7 @@
 * [Danmaku](https://github.com/weizhenye/Danmaku) - A high performance JavaScript danmaku engine. 一个高性能的弹幕引擎库 https://danmaku.js.org
 * [DPlayer](https://github.com/DIYgod/DPlayer) - 🍭Wow, such a lovely HTML5 danmaku video player http://dplayer.js.org
 * [Damoo](https://github.com/jamesliu96/Damoo) - HTML5 Danmaku Engine http://damoo.jamesliu.info
+* [DanPlayer](https://github.com/gzlock/danplayer) - 超多自定义项目的弹幕播放器 https://github.com/gzlock/danplayer
 
 ### Android
 
